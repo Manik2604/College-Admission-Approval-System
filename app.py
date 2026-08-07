@@ -116,7 +116,7 @@ hostel_map = {
 # ==========================================================
 
 
-MODEL_PATH="college_admission_approval.pkl"
+MODEL_PATH="college_admission_approval1.pkl"
 
 
 try:
